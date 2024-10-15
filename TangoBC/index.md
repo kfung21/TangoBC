@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Tango Lessons"
-  text: "Tango Instructors in SF"
-  tagline: My great project tagline
+  name: "Argentine Tango Lessons"
+  text: "San Francisco"
+  tagline: The One and Only Instructor You Need
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Let's Go!
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Learn More
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Hire Benny
+    details: He's the Best
+  - title: Other Tango Instructors?
+    details: Nah
+  - title: Dance Like a Star
+    details: We'll Make All Your Dreams Come True
 ---
 
