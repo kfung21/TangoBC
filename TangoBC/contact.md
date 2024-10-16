@@ -4,4 +4,4 @@ San Francisco based
 
 * email: bchan652@gmail.com
 * cell: (415) 828-7890
-* 1 hr: $20.00
+* contact to inquire for pricing
