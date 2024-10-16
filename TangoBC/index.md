@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "Argentine Tango Lessons"
-  text: "San Francisco"
-  tagline: The One and Only Instructor You Need
+  name: "Tango with Benny"
+  # text: "San Francisco"
+  tagline: The official website for tango dancer Benny Chan
+  image:
+    src: 'https://i.imgur.com/PR0wOZz.jpg'
   actions:
     - theme: brand
-      text: Let's Go!
-      link: /markdown-examples
-    - theme: alt
       text: Learn More
-      link: /api-examples
+      link: /influences
+    - theme: alt
+      text: Contact
+      link: /contact
 
 features:
-  - title: Hire Benny
-    details: He's the Best
-  - title: Other Tango Instructors?
-    details: Nah
-  - title: Dance Like a Star
-    details: We'll Make All Your Dreams Come True
+  - title: Private Lessons
+    details: 1 on 1
+  - title: Taxi Dancing
+    details: Dance with a Pro
+  - title: Contact
+    details: Text or Email for more Info
 ---
 
